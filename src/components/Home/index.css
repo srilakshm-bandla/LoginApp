@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.container {
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  width: 400px;
+  height: 350px;
+  border-radius: 10px;
+  margin-top: 90px;
+  margin-left: 80px;
+}
+.login-heading {
+  color: #ffffff;
+  font-size: 26px;
+  font-weight: bold;
+}
